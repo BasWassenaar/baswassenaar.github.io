@@ -1,5 +1,5 @@
 ---
-title: "About BasWas"
+title: "About"
 permalink: /about/
 ---
 
