@@ -1,9 +1,4 @@
 title: BasWas.blog
 description: The place on the internet where BasWas shares stuff.
-remote_theme: minimal-mistakes
-markdown: kramdown
-plugins:
-  - jemoji
-  - jekyll-seo-tag
-  - jekyll-sitemap
-  - jekyll-feed
+remote_theme: sylhare/Type-on-Strap 
+
