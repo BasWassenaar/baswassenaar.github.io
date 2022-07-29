@@ -1,0 +1,6 @@
+theme: jekyll-theme-tactile
+title: BasWas.blog
+description: The place on the internet where BasWas shares stuff.
+url: https://baswassenaar.github.io/
+
+remote_theme: cotes2020/jekyll-theme-chirpy
