@@ -1,4 +1,12 @@
-theme: jekyll-theme-tactile
 title: BasWas.blog
 description: The place on the internet where BasWas shares stuff.
-url: https://baswassenaar.github.io/
+remote_theme: sharadcodes/jekyll-theme-serial-programmer
+markdown: kramdown
+url: ""
+baseurl: "/baswassenaar.github.io"
+
+plugins:
+  - jemoji
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
