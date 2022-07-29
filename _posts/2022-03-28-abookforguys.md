@@ -1,6 +1,12 @@
 ---
 layout: post
-title: "Women in tech: A book for guys"
+title: "Women in tech: A book for guys"                               # Title of the page
+hide_title: true                                  # Hide the title when displaying the post, but shown in lists of posts
+feature-img: ""              # Add a feature-image to the post
+thumbnail: ""  # Add a thumbnail image on blog view
+color: rgb(80,140,22)                             # Add the specified color as feature image, and change link colors in post
+bootstrap: true                                   # Add bootstrap to the page
+tags: []
 ---
 
 I believe it was a tweet or LinkedIn post from [Ester Barthel](https://twitter.com/virtues_it) that made me aware of this book. Women in Tech: a book for guys by [Eva Helén](https://eqinspiration.com/product/women-in-tech-a-book-for-guys/). I ordered the book and received a nice handwritten greeting from Eva herself in the book, how nice. I had it laying on my shelf for quite some time, because needed to finish another book first... 📖

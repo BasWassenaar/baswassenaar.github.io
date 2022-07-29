@@ -1,5 +1,7 @@
 title: BasWas.blog
 description: The place on the internet where BasWas shares stuff.
+baseurl: ""
+url: "https://baswassenaar.github.io"
 remote_theme: sylhare/Type-on-Strap 
 
 # Header and footer text
