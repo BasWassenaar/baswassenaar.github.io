@@ -2,9 +2,6 @@ title: BasWas.blog
 description: The place on the internet where BasWas shares stuff.
 remote_theme: sharadcodes/jekyll-theme-serial-programmer
 markdown: kramdown
-url: ""
-baseurl: "/baswassenaar.github.io"
-
 plugins:
   - jemoji
   - jekyll-seo-tag
