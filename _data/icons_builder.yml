@@ -1,0 +1,10 @@
+# Default data to build the footer icons
+# DO NOT MODIFY, use the "icons.yml" instead.
+github:
+  pre: "https://github.com/"
+instagram:
+  pre: "https://instagram.com/"
+linkedin:
+  pre: "https://www.linkedin.com/in/"
+twitter:
+  pre: "https://twitter.com/"

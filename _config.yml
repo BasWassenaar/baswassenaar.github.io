@@ -1,12 +1,15 @@
 title: BasWas.blog
+avatar: /assets/avatar.png
 description: The place on the internet where BasWas shares stuff.
+favicon: /assets/favicon.ico
+color_theme: auto
 baseurl: ""
 url: "https://baswassenaar.github.io"
 remote_theme: sylhare/Type-on-Strap 
 
 # Header and footer text
-header_text: Wait, what?!  # Change Blog header text
-header_feature_image: images/banner1.jpg
+header_text: BasWas.blog # Change Blog header text
+header_feature_image: assets/header1.png
 header_feature_image_responsive: true
 footer_text: >
   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
